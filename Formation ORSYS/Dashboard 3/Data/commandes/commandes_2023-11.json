@@ -1,0 +1,254 @@
+[
+    {
+        "Numero commande": 221,
+        "Code client": 192,
+        "Date de la commande": "2023-11-02",
+        "Date de livraison": "2023-11-07",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 222,
+        "Code client": 118,
+        "Date de la commande": "2023-11-02",
+        "Date de livraison": "2023-11-07",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 223,
+        "Code client": 153,
+        "Date de la commande": "2023-11-02",
+        "Date de livraison": "2023-11-07",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 224,
+        "Code client": 243,
+        "Date de la commande": "2023-11-02",
+        "Date de livraison": "2023-11-05",
+        "Mode de paiement": "PP"
+    },
+    {
+        "Numero commande": 225,
+        "Code client": 155,
+        "Date de la commande": "2023-11-03",
+        "Date de livraison": "2023-11-07",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 226,
+        "Code client": 177,
+        "Date de la commande": "2023-11-03",
+        "Date de livraison": "2023-11-06",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 227,
+        "Code client": 219,
+        "Date de la commande": "2023-11-03",
+        "Date de livraison": "2023-11-06",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 228,
+        "Code client": 212,
+        "Date de la commande": "2023-11-04",
+        "Date de livraison": "2023-11-09",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 229,
+        "Code client": 285,
+        "Date de la commande": "2023-11-04",
+        "Date de livraison": "2023-11-09",
+        "Mode de paiement": "ST"
+    },
+    {
+        "Numero commande": 230,
+        "Code client": 102,
+        "Date de la commande": "2023-11-04",
+        "Date de livraison": "2023-11-08",
+        "Mode de paiement": "PP"
+    },
+    {
+        "Numero commande": 231,
+        "Code client": 26,
+        "Date de la commande": "2023-11-05",
+        "Date de livraison": "2023-11-09",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 232,
+        "Code client": 161,
+        "Date de la commande": "2023-11-05",
+        "Date de livraison": "2023-11-08",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 233,
+        "Code client": 36,
+        "Date de la commande": "2023-11-08",
+        "Date de livraison": "2023-11-11",
+        "Mode de paiement": "ST"
+    },
+    {
+        "Numero commande": 234,
+        "Code client": 186,
+        "Date de la commande": "2023-11-08",
+        "Date de livraison": "2023-11-12",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 235,
+        "Code client": 46,
+        "Date de la commande": "2023-11-09",
+        "Date de livraison": "2023-11-13",
+        "Mode de paiement": "PP"
+    },
+    {
+        "Numero commande": 236,
+        "Code client": 265,
+        "Date de la commande": "2023-11-12",
+        "Date de livraison": "2023-11-15",
+        "Mode de paiement": "PP"
+    },
+    {
+        "Numero commande": 237,
+        "Code client": 151,
+        "Date de la commande": "2023-11-12",
+        "Date de livraison": "2023-11-15",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 238,
+        "Code client": 253,
+        "Date de la commande": "2023-11-15",
+        "Date de livraison": "2023-11-19",
+        "Mode de paiement": "ST"
+    },
+    {
+        "Numero commande": 239,
+        "Code client": 182,
+        "Date de la commande": "2023-11-15",
+        "Date de livraison": "2023-11-18",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 240,
+        "Code client": 161,
+        "Date de la commande": "2023-11-17",
+        "Date de livraison": "2023-11-22",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 241,
+        "Code client": 7,
+        "Date de la commande": "2023-11-17",
+        "Date de livraison": "2023-11-21",
+        "Mode de paiement": "PP"
+    },
+    {
+        "Numero commande": 242,
+        "Code client": 68,
+        "Date de la commande": "2023-11-18",
+        "Date de livraison": "2023-11-21",
+        "Mode de paiement": "PP"
+    },
+    {
+        "Numero commande": 243,
+        "Code client": 185,
+        "Date de la commande": "2023-11-18",
+        "Date de livraison": "2023-11-23",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 244,
+        "Code client": 91,
+        "Date de la commande": "2023-11-19",
+        "Date de livraison": "2023-11-23",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 245,
+        "Code client": 298,
+        "Date de la commande": "2023-11-19",
+        "Date de livraison": "2023-11-24",
+        "Mode de paiement": "ST"
+    },
+    {
+        "Numero commande": 246,
+        "Code client": 60,
+        "Date de la commande": "2023-11-22",
+        "Date de livraison": "2023-11-25",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 247,
+        "Code client": 178,
+        "Date de la commande": "2023-11-22",
+        "Date de livraison": "2023-11-25",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 248,
+        "Code client": 159,
+        "Date de la commande": "2023-11-22",
+        "Date de livraison": "2023-11-25",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 249,
+        "Code client": 185,
+        "Date de la commande": "2023-11-23",
+        "Date de livraison": "2023-11-28",
+        "Mode de paiement": "PP"
+    },
+    {
+        "Numero commande": 250,
+        "Code client": 240,
+        "Date de la commande": "2023-11-23",
+        "Date de livraison": "2023-11-28",
+        "Mode de paiement": "PP"
+    },
+    {
+        "Numero commande": 251,
+        "Code client": 17,
+        "Date de la commande": "2023-11-24",
+        "Date de livraison": "2023-11-28",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 252,
+        "Code client": 140,
+        "Date de la commande": "2023-11-25",
+        "Date de livraison": "2023-11-28",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 253,
+        "Code client": 279,
+        "Date de la commande": "2023-11-25",
+        "Date de livraison": "2023-11-28",
+        "Mode de paiement": "PP"
+    },
+    {
+        "Numero commande": 254,
+        "Code client": 131,
+        "Date de la commande": "2023-11-26",
+        "Date de livraison": "2023-11-30",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 255,
+        "Code client": 35,
+        "Date de la commande": "2023-11-29",
+        "Date de livraison": "2023-12-01",
+        "Mode de paiement": "ST"
+    },
+    {
+        "Numero commande": 256,
+        "Code client": 147,
+        "Date de la commande": "2023-11-30",
+        "Date de livraison": "2023-12-03",
+        "Mode de paiement": "ST"
+    }
+]

@@ -1,0 +1,11 @@
+id_fournisseur;nom_fournisseur;ville;numero_contact;email
+1;NutriSport;Paris;+33 1 23 45 67 89;contact@nutrisport.fr
+2;ProWellness;Lyon;+33 2 98 76 54 32;contact@prowellness.fr
+3;FitFoods;Marseille;+33 3 45 67 89 10;contact@fitfoods.fr
+4;PowerFuel;Toulouse;+33 4 23 45 67 89;contact@powerfuel.fr
+5;VitalSupps;Nice;+33 5 78 90 12 34;contact@vitalsupps.fr
+6;MaxNutrition;Nantes;+33 6 12 34 56 78;contact@maxnutrition.fr
+7;HealthyLife;Strasbourg;+33 7 89 10 23 45;contact@healthylife.fr
+8;EnergyPlus;Bordeaux;+33 8 90 12 34 56;contact@energyplus.fr
+9;SportFuel;Lille;+33 9 34 56 78 90;contact@sportfuel.fr
+10;PureNutrition;Rennes;+33 1 98 76 54 32;contact@purenutrition.fr

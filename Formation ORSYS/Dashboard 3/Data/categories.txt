@@ -1,0 +1,57 @@
+code_categorie
+category
+famille_produit
+01
+Gainer
+Suppléments Protéinés
+02
+Caséine
+Compléments Alimentaires
+03
+Shaker
+Accessoires
+04
+L-Carnitine
+Compléments Alimentaires
+05
+Bêta-Alanine
+Vitamine & Minéraux
+06
+Barre Énergétique
+Nutrition Sportive
+07
+Vitamines Multivitamin
+Vitamine & Minéraux
+08
+Brûleur de Graisses
+Compléments Alimentaires
+09
+Gel Énergétique
+Boissons Sportives
+10
+Électrolytes
+Nutrition Sportive
+11
+Acides Aminés BCAA
+Suppléments Protéinés
+12
+Omega-3
+Vitamine & Minéraux
+13
+Mélange Protéiné
+Suppléments Energétiques
+14
+Créatine Monohydrate	
+Nutrition Sportive
+15
+Barre Protéinée
+Suppléments Protéinés
+16
+Protéine Whey
+Suppléments Protéinés
+17
+Glutamine
+Suppléments Glucidiques
+18
+Crème Glucides
+Suppléments Glucidiques

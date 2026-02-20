@@ -1,0 +1,86 @@
+[
+    {
+        "Numero commande": 153,
+        "Code client": 26,
+        "Date de la commande": "2023-10-01",
+        "Date de livraison": "2023-10-06",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 154,
+        "Code client": 225,
+        "Date de la commande": "2023-10-01",
+        "Date de livraison": "2023-10-05",
+        "Mode de paiement": "ST"
+    },
+    {
+        "Numero commande": 155,
+        "Code client": 94,
+        "Date de la commande": "2023-10-02",
+        "Date de livraison": "2023-10-05",
+        "Mode de paiement": "ST"
+    },
+    {
+        "Numero commande": 156,
+        "Code client": 78,
+        "Date de la commande": "2023-10-03",
+        "Date de livraison": "2023-10-08",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 157,
+        "Code client": 293,
+        "Date de la commande": "2023-10-03",
+        "Date de livraison": "2023-10-06",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 158,
+        "Code client": 37,
+        "Date de la commande": "2023-10-04",
+        "Date de livraison": "2023-10-09",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 159,
+        "Code client": 89,
+        "Date de la commande": "2023-10-07",
+        "Date de livraison": "2023-10-12",
+        "Mode de paiement": "PP"
+    },
+    {
+        "Numero commande": 160,
+        "Code client": 277,
+        "Date de la commande": "2023-10-08",
+        "Date de livraison": "2023-10-12",
+        "Mode de paiement": "PP"
+    },
+    {
+        "Numero commande": 161,
+        "Code client": 87,
+        "Date de la commande": "2023-10-08",
+        "Date de livraison": "2023-10-13",
+        "Mode de paiement": "CB"
+    },
+    {
+        "Numero commande": 162,
+        "Code client": 258,
+        "Date de la commande": "2023-10-09",
+        "Date de livraison": "2023-10-14",
+        "Mode de paiement": "ST"
+    },
+    {
+        "Numero commande": 163,
+        "Code client": 26,
+        "Date de la commande": "2023-10-09",
+        "Date de livraison": "2023-10-12",
+        "Mode de paiement": "ST"
+    },
+    {
+        "Numero commande": 164,
+        "Code client": 134,
+        "Date de la commande": "2023-10-09",
+        "Date de livraison": "2023-10-13",
+        "Mode de paiement": "PP"
+    }
+]

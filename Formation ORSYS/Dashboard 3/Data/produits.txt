@@ -1,0 +1,71 @@
+id_produit	date_lancement	nom_produit	description	prix_vente	certifications_labels	origine_ingredients	id_fournisseur	code_catégories	prix_achat
+1	09/11/2022	NutriBoost Bar 1	Améliore le métabolisme des graisses.	21	Sans gluten	Australie	7	15	10,5
+2	28/02/2024	EnergyPlus Drink 2	Améliore le métabolisme des graisses.	28	Sans gluten	Australie	4	09	16,24
+3	13/03/2024	MuscleFuel Powder 3	Un acide aminé important pour la performance.	33	Sans sucre ajouté	États-Unis	10	01	17,16
+4	17/07/2023	VitalVitamins Pack 4	Idéal pour une libération prolongée de protéines.	44	Bio, Végan	France	1	05	24,64
+5	13/01/2024	MuscleFuel Powder 5	Un acide aminé important pour la performance.	34	Certifié Écologique	Brésil	5	01	20,4
+6	02/12/2021	VitalVitamins Pack 6	Un acide aminé important pour la performance.	18	Sans sucre ajouté	Brésil	8	05	9
+7	04/08/2023	NutriBoost Bar 7	Parfait pour mélanger vos suppléments en déplacement.	41	Certifié Écologique	France	1	15	20,5
+8	24/03/2022	EnergyPlus Drink 8	Un acide aminé important pour la performance.	23	Bio, Végan	Brésil	4	09	12,88
+9	27/09/2022	NutriBoost Bar 9	Un acide aminé important pour la performance.	30	Sans sucre ajouté	Canada	3	15	16,2
+10	14/10/2021	NutriBoost Bar 10	Améliore le métabolisme des graisses.	44	Non-OGM	Brésil	4	15	19,36
+11	30/09/2021	ProMax Shake 11	Parfait pour mélanger vos suppléments en déplacement.	36	Bio, Végan	Australie	6	02	21,24
+12	20/05/2024	VitalVitamins Pack 12	Idéal pour une libération prolongée de protéines.	32	Certifié Écologique	Canada	9	05	15,68
+13	07/12/2021	EnergyPlus Drink 13	Un supplément essentiel pour la croissance musculaire.	38	Certifié Écologique	France	8	09	19,76
+14	24/10/2021	VitalVitamins Pack 14	Un supplément essentiel pour la croissance musculaire.	32	Bio, Végan	Canada	3	05	18,88
+15	02/03/2024	NutriBoost Bar 15	Un acide aminé important pour la performance.	30	Non-OGM	Australie	9	15	13,5
+16	24/05/2024	EnergyPlus Drink 16	Parfait pour mélanger vos suppléments en déplacement.	45	Certifié Écologique	États-Unis	2	09	25,65
+17	14/09/2023	VitalVitamins Pack 17	Un acide aminé important pour la performance.	18	Non-OGM	Canada	3	05	9,18
+18	08/12/2022	NutriBoost Bar 18	Un supplément essentiel pour la croissance musculaire.	20	Sans sucre ajouté	Brésil	4	06	9,8
+19	14/11/2021	MuscleFuel Powder 19	Parfait pour mélanger vos suppléments en déplacement.	25	Non-OGM	Australie	5	01	12,5
+20	17/12/2021	ProMax Shake 20	Un supplément essentiel pour la croissance musculaire.	27	Non-OGM	Australie	3	02	12,69
+21	11/07/2022	MuscleFuel Powder 21	Améliore le métabolisme des graisses.	44	Sans gluten	Brésil	4	01	25,52
+22	06/09/2022	VitalVitamins Pack 22	Améliore le métabolisme des graisses.	26	Certifié Écologique	Canada	3	05	13,52
+23	19/07/2023	MuscleFuel Powder 23	Parfait pour mélanger vos suppléments en déplacement.	44	Certifié Écologique	Canada	1	11	21,56
+24	20/09/2022	MuscleFuel Powder 24	Parfait pour mélanger vos suppléments en déplacement.	41	Sans sucre ajouté	Brésil	6	11	19,27
+25	04/09/2021	VitalVitamins Pack 25	Un supplément essentiel pour la croissance musculaire.	38	Sans gluten	Brésil	6	05	19
+26	20/01/2024	NutriBoost Bar 26	Parfait pour mélanger vos suppléments en déplacement.	18	Bio, Végan	Canada	2	06	8,1
+27	09/09/2021	EnergyPlus Drink 27	Idéal pour une libération prolongée de protéines.	19	Non-OGM	Canada	1	09	10,07
+28	15/08/2021	VitalVitamins Pack 28	Un supplément essentiel pour la croissance musculaire.	28	Sans sucre ajouté	France	8	07	13,72
+29	01/04/2023	ProMax Shake 29	Idéal pour une libération prolongée de protéines.	45	Sans gluten	États-Unis	3	02	19,8
+30	18/04/2022	EnergyPlus Drink 30	Idéal pour une libération prolongée de protéines.	41	Certifié Écologique	États-Unis	1	09	24,6
+31	21/11/2021	VitalVitamins Pack 31	Améliore le métabolisme des graisses.	29	Certifié Écologique	Brésil	7	07	16,53
+32	13/06/2023	EnergyPlus Drink 32	Idéal pour une libération prolongée de protéines.	39	Sans sucre ajouté	États-Unis	3	09	22,23
+33	23/10/2021	EnergyPlus Drink 33	Un acide aminé important pour la performance.	24	Bio, Végan	États-Unis	2	09	12,96
+34	03/02/2022	NutriBoost Bar 34	Améliore le métabolisme des graisses.	20	Bio, Végan	Canada	7	06	11,8
+35	11/01/2022	VitalVitamins Pack 35	Un supplément essentiel pour la croissance musculaire.	34	Non-OGM	Canada	4	07	15,64
+36	22/10/2021	VitalVitamins Pack 36	Parfait pour mélanger vos suppléments en déplacement.	34	Certifié Écologique	France	4	07	14,28
+37	30/11/2022	MuscleFuel Powder 37	Améliore le métabolisme des graisses.	18	Sans gluten	Brésil	4	11	7,2
+38	14/07/2022	MuscleFuel Powder 38	Un acide aminé important pour la performance.	42	Non-OGM	Brésil	5	11	23,1
+39	17/09/2022	NutriBoost Bar 39	Un supplément essentiel pour la croissance musculaire.	23	Sans sucre ajouté	Australie	5	13	12,42
+40	10/07/2023	ProMax Shake 40	Améliore le métabolisme des graisses.	40	Bio, Végan	Canada	6	04	16
+41	20/12/2023	MuscleFuel Powder 41	Parfait pour mélanger vos suppléments en déplacement.	21	Bio, Végan	États-Unis	9	11	11,13
+42	08/02/2023	VitalVitamins Pack 42	Un supplément essentiel pour la croissance musculaire.	35	Sans sucre ajouté	France	10	07	14
+43	28/11/2023	VitalVitamins Pack 43	Idéal pour une libération prolongée de protéines.	21	Sans sucre ajouté	Brésil	6	07	11,34
+44	21/05/2024	MuscleFuel Powder 44	Parfait pour mélanger vos suppléments en déplacement.	36	Non-OGM	Brésil	10	15	19,8
+45	23/12/2023	VitalVitamins Pack 45	Idéal pour une libération prolongée de protéines.	22	Non-OGM	France	10	12	9,24
+46	25/09/2021	EnergyPlus Drink 46	Parfait pour mélanger vos suppléments en déplacement.	18	Bio, Végan	États-Unis	6	09	8,1
+47	03/06/2024	MuscleFuel Powder 47	Parfait pour mélanger vos suppléments en déplacement.	45	Sans sucre ajouté	États-Unis	4	15	23,85
+48	17/05/2023	EnergyPlus Drink 48	Un supplément essentiel pour la croissance musculaire.	39	Sans gluten	Australie	2	09	23,01
+49	22/03/2023	MuscleFuel Powder 49	Un supplément essentiel pour la croissance musculaire.	27	Non-OGM	Brésil	8	15	14,31
+50	05/02/2022	VitalVitamins Pack 50	Parfait pour mélanger vos suppléments en déplacement.	34	Sans sucre ajouté	Australie	7	12	14,28
+51	16/01/2022	EnergyPlus Drink 51	Parfait pour mélanger vos suppléments en déplacement.	32	Certifié Écologique	Canada	9	09	15,04
+52	03/06/2023	VitalVitamins Pack 52	Parfait pour mélanger vos suppléments en déplacement.	32	Bio, Végan	Brésil	4	12	15,04
+53	17/07/2024	EnergyPlus Drink 53	Parfait pour mélanger vos suppléments en déplacement.	41	Certifié Écologique	France	5	09	23,37
+54	29/12/2021	EnergyPlus Drink 54	Un acide aminé important pour la performance.	40	Certifié Écologique	Canada	4	09	22
+55	29/06/2024	EnergyPlus Drink 55	Un supplément essentiel pour la croissance musculaire.	28	Sans gluten	États-Unis	6	09	13,44
+56	28/07/2024	NutriBoost Bar 56	Parfait pour mélanger vos suppléments en déplacement.	39	Certifié Écologique	Australie	2	13	21,45
+57	04/03/2022	VitalVitamins Pack 57	Parfait pour mélanger vos suppléments en déplacement.	41	Non-OGM	États-Unis	6	12	16,81
+58	07/02/2024	MuscleFuel Powder 58	Parfait pour mélanger vos suppléments en déplacement.	17	Certifié Écologique	États-Unis	6	16	8,67
+59	17/02/2022	EnergyPlus Drink 59	Idéal pour une libération prolongée de protéines.	22	Sans sucre ajouté	États-Unis	2	09	11,44
+60	11/08/2022	NutriBoost Bar 60	Un acide aminé important pour la performance.	37	Non-OGM	États-Unis	6	13	18,5
+61	11/01/2022	ProMax Shake 61	Un acide aminé important pour la performance.	26	Certifié Écologique	Australie	2	04	14,3
+62	07/10/2023	MuscleFuel Powder 62	Idéal pour une libération prolongée de protéines.	20	Non-OGM	États-Unis	5	16	9,8
+63	16/10/2022	NutriBoost Bar 63	Parfait pour mélanger vos suppléments en déplacement.	37	Sans sucre ajouté	Australie	2	13	16,65
+64	14/07/2022	NutriBoost Bar 64	Parfait pour mélanger vos suppléments en déplacement.	19	Sans gluten	Australie	2	13	10,26
+65	05/07/2023	VitalVitamins Pack 65	Parfait pour mélanger vos suppléments en déplacement.	45	Sans sucre ajouté	Canada	4	12	18,9
+66	06/05/2022	ProMax Shake 66	Un supplément essentiel pour la croissance musculaire.	20	23	États-Unis	5	08	8,4
+67	10/03/2024	EnergyPlus Drink 67	Un supplément essentiel pour la croissance musculaire.	25	Bio, Végan	France	7	09	13,75
+68	01/12/2023	ProMax Shake 68	Un supplément essentiel pour la croissance musculaire.	27	Sans sucre ajouté	Canada	2	08	14,58
+69	28/11/2023	VitalVitamins Pack 69	Parfait pour mélanger vos suppléments en déplacement.	17	Sans gluten	États-Unis	10	12	7,14
+70	02/03/2022	VitalVitamins Pack 70		18	Bio, Végan	Brésil	3	12	10,08
