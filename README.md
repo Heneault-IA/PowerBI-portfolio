@@ -22,7 +22,7 @@ _(Voir [Formation ORSYS/Dashboard 1/description.md](Formation%20ORSYS/Dashboard%
 Chiffre d'affaire = SUMX(Sales, Sales[Products.price] * Sales[Sales])
 ```
 
-**Télécharger** : [Rapport ecom-analysis.pbix]([Formation%20ORSYS/Dashboard%201/Rapport%20ecom-analysis.pbix](https://github.com/Heneault-IA/PowerBI-portfolio/blob/main/Formation%20ORSYS/Dashboard%201/Rapport%20ecom-analysis.pbix))
+**Télécharger** : [Rapport ecom-analysis.pbix](https://github.com/Heneault-IA/PowerBI-portfolio/blob/main/Formation%20ORSYS/Dashboard%201/Rapport%20ecom-analysis.pbix)
 
 ## Dashboard 2 : E-commerce Analysis V2
 
