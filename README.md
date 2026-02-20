@@ -7,7 +7,7 @@ Objectif : Transformer des données brutes en visualisations interactives et ins
 ## Dashboard 1 : E-commerce Analysis
 
 **Description** : Dashboard sur les ventes d'un e-commerce, top produits, évolution CA, comportement clients.
-_(Voir `Formation ORSYS/Dashboard 1/description.md` pour plus de détails)_
+_(Voir [Formation ORSYS/Dashboard 1/description.md](Formation%20ORSYS/Dashboard%201/description.md) pour plus de détails)_
 
 - Outils : Power Query (nettoyage), DAX (mesures YoY, % marge), slicers, cartes, graphs bar/line.
 - Apprentissages : Modélisation star schema, bookmarks, tooltips custom.
@@ -27,7 +27,7 @@ Chiffre d'affaire = SUMX(Sales, Sales[Products.price] * Sales[Sales])
 ## Dashboard 2 : E-commerce Analysis V2
 
 **Description** : Seconde itération de l'analyse e-commerce avec un design et des indicateurs potentiellement différents.
-_(Voir `Formation ORSYS/Dashboard 2/description.md` pour plus de détails)_
+_(Voir [Formation ORSYS/Dashboard 2/description.md](Formation%20ORSYS/Dashboard%202/description.md) pour plus de détails)_
 
 - Focus : Mesures calculées, conditional formatting, drill-through.
 
@@ -53,7 +53,7 @@ Titre Sales Revenue per Month = "Sales Revenue for Periode " & MIN(Sales[Month])
 ## Dashboard 3 : Commerce
 
 **Description** : Analyse des activités commerciales et suivi de données globales. Inclut un dossier de données sources.
-_(Voir `Formation ORSYS/Dashboard 3/description.md` pour plus de détails)_
+_(Voir [Formation ORSYS/Dashboard 3/description.md](Formation%20ORSYS/Dashboard%203/description.md) pour plus de détails)_
 
 **DAX** :
 
