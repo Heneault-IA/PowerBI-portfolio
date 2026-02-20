@@ -22,7 +22,7 @@ _(Voir [Formation ORSYS/Dashboard 1/description.md](Formation%20ORSYS/Dashboard%
 Chiffre d'affaire = SUMX(Sales, Sales[Products.price] * Sales[Sales])
 ```
 
-**Télécharger** : [Rapport ecom-analysis.pbix](Formation%20ORSYS/Dashboard%201/Rapport%20ecom-analysis.pbix)
+**Télécharger** : [Rapport ecom-analysis.pbix]([Formation%20ORSYS/Dashboard%201/Rapport%20ecom-analysis.pbix](https://github.com/Heneault-IA/PowerBI-portfolio/blob/main/Formation%20ORSYS/Dashboard%201/Rapport%20ecom-analysis.pbix))
 
 ## Dashboard 2 : E-commerce Analysis V2
 
@@ -48,7 +48,7 @@ total gross margin = SUMX(
 Titre Sales Revenue per Month = "Sales Revenue for Periode " & MIN(Sales[Month]) & " to " & MAX(Sales[Month])
 ```
 
-**Télécharger** : [Rapport ecom-analysis.pbix](Formation%20ORSYS/Dashboard%202/Rapport%20ecom-analysis.pbix)
+**Télécharger** : [Rapport ecom-analysis.pbix]([Formation%20ORSYS/Dashboard%202/Rapport%20ecom-analysis.pbix](https://github.com/Heneault-IA/PowerBI-portfolio/blob/main/Formation%20ORSYS/Dashboard%202/Rapport%20ecom-analysis.pbix))
 
 ## Dashboard 3 : Commerce
 
@@ -88,7 +88,7 @@ Nb Commandes Jours Feries = CALCULATE(
 <img src="Formation%20ORSYS/Dashboard%203/Captures/page%203.png" alt="page3" width="600">
 <img src="Formation%20ORSYS/Dashboard%203/Captures/page%204.png" alt="page4" width="600">
 
-**Télécharger** : [Commerce.pbix](Formation%20ORSYS/Dashboard%203/Commerce.pbix)
+**Télécharger** : [Commerce.pbix]([Formation%20ORSYS/Dashboard%203/Commerce.pbix](https://github.com/Heneault-IA/PowerBI-portfolio/blob/main/Formation%20ORSYS/Dashboard%203/Commerce.pbix))
 
 ## Comment tester les dashboards
 
